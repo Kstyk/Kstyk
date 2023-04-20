@@ -1,5 +1,5 @@
 ## Cześć! 
-Jestem Seweryn, studiuję na Uniwersytecie Rzeszowskim. Rozwijam się głównie w web developmentu, skupiając się na technologiach Django, ReactJS, 
+Jestem Seweryn, studiuję na Uniwersytecie Rzeszowskim. Rozwijam się głównie w web developmencie, skupiając się na technologiach Django, ReactJS, 
 oraz ostatnio również Spring Boot. Posiadam także podstawową wiedzę o Laravelu.
 
 Moje umiejętności, opanowane w większym lub mniejszym stopniu:
