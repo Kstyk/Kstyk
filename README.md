@@ -1,6 +1,8 @@
-## Cześć! 
-Jestem Seweryn, studiuję na Uniwersytecie Rzeszowskim. Rozwijam się głównie w web developmencie, skupiając się na technologiach Django, ReactJS, 
-oraz ostatnio również Spring Boot. Posiadam także podstawową wiedzę o Laravelu.
+## Hi! 
+My name is Seweryn. I'm first-year student in University of Rzeszow of graduation studies in Information Technology. I'm mostly interested in creating websites - technologies known by me are Django, ASP.NET Core - I spent most of the time with them. I also created projects in Laravel and Spring Boot during enigneering degree.
+
+My most-used JavaScript framework is React, but lately I started learning Angular - the first link below is my current project writting in .NET and Angular. With learning Angular, I acquired knowledge about TypeScirpt. 
+
 ### Currently working on:<br/>
 <img style="height:25px;" src="https://skillicons.dev/icons?i=dotnet"/><img style="height:25px;" src="https://skillicons.dev/icons?i=angular"/> <a href="https://github.com/Kstyk/FileShare">FileShare App</a> <br />
 
