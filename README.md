@@ -1,5 +1,5 @@
 ## Hi! 
-My name is Seweryn. I'm first-year student in University of Rzeszow of graduation studies in Information Technology. I'm mostly interested in creating websites - technologies known by me are Django, ASP.NET Core - I spent most of the time with them. I also created projects in Laravel and Spring Boot during enigneering degree.
+I'm Seweryn and I'm a first-year student of Master's degree in Computer Science at University of Rzeszów. I'm mostly interested in creating websites - technologies known by me are Django, ASP.NET Core - I spent most of the time with them. I also created projects in Laravel and Spring Boot during enigneering degree.
 
 My most-used JavaScript framework is React, but lately I started learning Angular - the first link below is my current project writting in .NET and Angular. With learning Angular, I acquired knowledge about TypeScirpt. 
 
