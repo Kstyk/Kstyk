@@ -1,8 +1,5 @@
 ## Hi! 
-I'm Seweryn and I'm a first-year student of Master's degree in Computer Science at University of Rzeszów. I'm mostly interested in creating websites - technologies known by me are Django, ASP.NET Core - I spent most of the time with them. I also created projects in Laravel and Spring Boot during enigneering degree.
-
-My most-used JavaScript framework is React, but lately I started learning Angular - the first link below is my current project writting in .NET and Angular. With learning Angular, I acquired knowledge about TypeScirpt. 
-
+I'm Seweryn and I'm a first-year student of Master's degree in Computer Science at University of Rzeszów. Check what I created so far :)
 ### Currently working on:<br/>
 <img style="height:25px;" src="https://skillicons.dev/icons?i=dotnet"/><img style="height:25px;" src="https://skillicons.dev/icons?i=angular"/> <a href="https://github.com/Kstyk/FileShare">FileShare App</a> <br />
 
